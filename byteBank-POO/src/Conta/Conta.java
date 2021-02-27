@@ -9,11 +9,16 @@ public class Conta {
     private Cliente titular;
     private static int total = 0;
 
+    public static int getTotal() {
+        return Conta.total;
+    }
+
     //construtor
     public Conta(int agencia, int numero) {
         this.agencia = agencia;
         this.numero = numero;
         this.saldo = 100; //isso significa que toda conta começa com 100 de saldo.
+        total++;
         System.out.println("Estou criando uma conta");
     }
 

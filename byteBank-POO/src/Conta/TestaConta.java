@@ -35,5 +35,7 @@ public class TestaConta {
         System.out.println(segundaConta);
         System.out.println(primeiraConta);
 
+        System.out.println(Conta.getTotal());
+
     }
 }
