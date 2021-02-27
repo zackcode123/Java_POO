@@ -1,6 +1,4 @@
-package Cliente;
-
-import Conta.Conta;
+package ALURA.POO.Cliente;
 
 public class Cliente {
     private String nome;

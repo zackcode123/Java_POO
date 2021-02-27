@@ -1,12 +1,11 @@
-package Conta;
+package ALURA.POO.Conta;
 
-import Cliente.Cliente;
+import ALURA.POO.Cliente.Cliente;
 
 public class TestaConta {
     public static void main(String[] args) {
         //Primeira Conta
         Conta primeiraConta = new Conta(01, 0001);
-        primeiraConta.setAgencia(01);
 
         Cliente clientePrimeiraConta = new Cliente();
         clientePrimeiraConta.setNome("Antonio");

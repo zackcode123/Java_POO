@@ -1,6 +1,6 @@
-package Cliente;
+package ALURA.POO.Cliente;
 
-import Conta.Conta;
+import ALURA.POO.Conta.Conta;
 
 public class TestaCliente {
 

@@ -1,6 +1,6 @@
-package Conta;
+package ALURA.POO.Conta;
 
-import Cliente.Cliente;
+import ALURA.POO.Cliente.Cliente;
 
 public class Conta {
     private double saldo;
@@ -52,6 +52,7 @@ public class Conta {
         return "Conta{" +
                 "saldo=" + saldo +
                 ", agencia=" + agencia +
+                ", numero=" + numero +
                 ", titular=" + titular +
                 '}';
     }
