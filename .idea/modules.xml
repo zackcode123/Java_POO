@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Ws_Intellij/byteBank-Aulas intellij.iml" filepath="$PROJECT_DIR$/../Ws_Intellij/byteBank-Aulas intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byteBank-POO/byteBank-POO.iml" filepath="$PROJECT_DIR$/byteBank-POO/byteBank-POO.iml" />
+    </modules>
+  </component>
+</project>
